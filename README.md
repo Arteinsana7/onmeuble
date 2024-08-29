@@ -1,6 +1,6 @@
 # On Meuble
 
-*On a pas trouvé de nom, du coup **On Meuble***.
+* site de e-commerce. Création d'une RESTful API. Operations CRUD ***.
 
 <details>
 <summary style="font-size: 25px">Table des matières 📖</summary>
