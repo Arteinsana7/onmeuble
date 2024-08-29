@@ -1,6 +1,6 @@
 # On Meuble
 
-* Site e-commerce. Création d'une RESTful API. Operations CRUD***
+* Site e-commerce. Création d'une RESTful API. Operations CRUD *
 
 <details>
 <summary style="font-size: 25px">Table des matières 📖</summary>
